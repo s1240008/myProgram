@@ -1,0 +1,11 @@
+typedef struct{
+  int Y10000;
+  int Y5000;
+  int Y1000;
+  int Y500;
+  int Y100;
+  int Y50;
+  int Y10;
+  int Y5;
+  int Y1;
+}wallet;
